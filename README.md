@@ -3,7 +3,7 @@
 
 Code for the paper *Open Set Video HOI detection from Action-centric Chain-of-Look Prompting.* 
 
-[Paper Link]: (https://openaccess.thecvf.com/content/ICCV2023/papers/Xi_Open_Set_Video_HOI_detection_from_Action-Centric_Chain-of-Look_Prompting_ICCV_2023_paper.pdf)
+Paper Link: [link](https://openaccess.thecvf.com/content/ICCV2023/papers/Xi_Open_Set_Video_HOI_detection_from_Action-Centric_Chain-of-Look_Prompting_ICCV_2023_paper.pdf)
 
 Nan Xi, Jingjing Meng, Junsong Yuan, ICCV 2023.
 
